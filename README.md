@@ -2,7 +2,7 @@
 
 ![Dashboard Preview](Dashboard%20Image.png)
 
-The interactive dashboard can be filtered based on any choosing of stars, reviews and price of products and automatically displays the corresponding statistics.
+This interactive Tableau dashboard can be filtered based on any choosing of stars, reviews and price of products and automatically displays the corresponding statistics. The aim of this report and dashboard is a comprehensive analysis of over 2.1 million Amazon.ca products listed in 2023, focusing on trends in ratings, pricing, discounts, and best-seller performance.
 [Click here to open the live dashboard in Tableau Public](https://public.tableau.com/app/profile/ren.dar/viz/Amazon2023ProductsCanada_17439324460890/Dashboard1?publish=yes)
 
 ## Introduction
