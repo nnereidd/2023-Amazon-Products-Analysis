@@ -1,6 +1,6 @@
 # Amazon 2023 Products Analysis
 
-![Dashboard Preview]("Dashboard Image".png)
+![Dashboard Preview](Dashboard%20Image.png)
 
 The interactive dashboard can be filtered based on any choosing of stars, reviews and price of products and automatically displays the corresponding statistics.
 [Click here to open the live dashboard in Tableau Public](https://public.tableau.com/app/profile/ren.dar/viz/Amazon2023ProductsCanada_17439324460890/Dashboard1?publish=yes)
